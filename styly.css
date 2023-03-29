@@ -18,6 +18,10 @@ margin: 24px 0;
 
 .cabeçalho-lista-item{
    display: inline-block; 
-margin: 0 16px;
-font-size: 24px;
+   margin: 0 16px;
+   font-size: 24px;
+}
+
+.confeitaria-imagem{
+    width: 25%;
 }
